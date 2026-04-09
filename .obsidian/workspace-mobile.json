@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "测试.md",
+                "file": "手机端.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "测试"
+              "title": "手机端"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "测试.md",
+            "file": "手机端.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "测试.md",
+            "file": "手机端.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "测试.md",
+            "file": "手机端.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -170,5 +170,8 @@
     }
   },
   "active": "83ffca0c5a26d9b1",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "测试.md",
+    "手机端.md"
+  ]
 }
