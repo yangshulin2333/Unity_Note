@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub面经.md",
+                "file": "PC端/面经1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitHub面经"
+              "title": "面经1"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitHub面经.md",
+                "file": "PC端/面经1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "GitHub面经 的反向链接列表"
+              "title": "面经1 的反向链接列表"
             }
           },
           {
@@ -156,21 +156,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GitHub面经.md",
+                "file": "PC端/面经1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "GitHub面经 的大纲"
+              "title": "面经1 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,12 +184,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3accdc91a277ff1",
+  "active": "47abc3bfad13876a",
   "lastOpenFiles": [
-    "未命名.md",
-    "手机端.md",
-    "assets/GitHub面经/file-20260409080730843.jpg",
     "GitHub面经.md",
+    "PC端/面经1.md",
+    "PC端",
+    "手机端.md",
+    "未命名.md",
+    "assets/GitHub面经/file-20260409080730843.jpg",
     "assets/GitHub面经",
     "assets/测试",
     "assets",
