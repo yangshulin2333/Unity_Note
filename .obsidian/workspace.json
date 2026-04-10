@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC端/CSharp.md",
+                "file": "PC端/自我介绍.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSharp"
+              "title": "自我介绍"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC端/CSharp.md",
+                "file": "PC端/自我介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "CSharp 的反向链接列表"
+              "title": "自我介绍 的反向链接列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PC端/CSharp.md",
+                "file": "PC端/自我介绍.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "CSharp 的大纲"
+              "title": "自我介绍 的大纲"
             }
           }
         ],
@@ -186,11 +186,12 @@
   },
   "active": "e3accdc91a277ff1",
   "lastOpenFiles": [
-    "PC端/面经1.md",
+    "手机端.md",
+    "PC端/自我介绍.md",
     "PC端/CSharp.md",
+    "PC端/面经1.md",
     "GitHub面经.md",
     "PC端",
-    "手机端.md",
     "未命名.md",
     "assets/GitHub面经/file-20260409080730843.jpg",
     "assets/GitHub面经",
