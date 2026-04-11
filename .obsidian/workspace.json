@@ -25,12 +25,14 @@
             "id": "648d9d490c8b11e0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "Roblox/全栈开发/学习大纲.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.12.7"
+              "icon": "lucide-file",
+              "title": "学习大纲"
             }
           }
         ],
@@ -200,6 +202,9 @@
   },
   "active": "648d9d490c8b11e0",
   "lastOpenFiles": [
+    "Roblox/全栈开发/学习大纲.md",
+    "Roblox/全栈开发",
+    "Roblox",
     "PC端/微信好友.md",
     "PC端/面试对话.md",
     "PC端/实施面试.md",
@@ -232,7 +237,6 @@
     "Code_Monkey/ChaosKitchen/学习过程.md",
     "Code_Monkey/ChaosKitchen/学习解决问题.md",
     "Code_Monkey/ChaosKitchen",
-    "Code_Monkey/需要被的知识点，没懂的.md",
-    "Code_Monkey"
+    "Code_Monkey/需要被的知识点，没懂的.md"
   ]
 }
