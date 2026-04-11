@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roblox/全栈开发/开发文档/Luau 和 CSharp 的比较.md",
+                "file": "Roblox/全栈开发/基础常识.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Luau 和 CSharp 的比较"
+              "title": "基础常识"
             }
           }
         ],
@@ -202,8 +202,9 @@
   },
   "active": "648d9d490c8b11e0",
   "lastOpenFiles": [
-    "Roblox/全栈开发/未命名.md",
     "Roblox/全栈开发/开发文档/Luau 和 CSharp 的比较.md",
+    "Roblox/全栈开发/基础常识.md",
+    "Roblox/全栈开发/未命名.md",
     "Roblox/全栈开发/开发文档",
     "Roblox/全栈开发/官方速查文档.md",
     "Roblox/全栈开发/学习大纲.md",
