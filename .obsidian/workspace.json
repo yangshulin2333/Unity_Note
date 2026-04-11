@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roblox/全栈开发/基础常识.md",
+                "file": "Roblox/全栈开发/开发文档/表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基础常识"
+              "title": "表"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PC端/面试对话.md",
+                "file": "Roblox/全栈开发/开发文档/表.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "面试对话 的大纲"
+              "title": "表 的大纲"
             }
           }
         ],
@@ -185,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,7 +203,9 @@
   "lastOpenFiles": [
     "Roblox/全栈开发/开发文档/Luau 和 CSharp 的比较.md",
     "Roblox/全栈开发/基础常识.md",
+    "Roblox/全栈开发/开发文档/表.md",
     "Roblox/全栈开发/未命名.md",
+    "Roblox/全栈开发/单词含义.md",
     "Roblox/全栈开发/开发文档",
     "Roblox/全栈开发/官方速查文档.md",
     "Roblox/全栈开发/学习大纲.md",
