@@ -199,17 +199,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "648d9d490c8b11e0",
+  "active": "d0d07b32decba7d2",
   "lastOpenFiles": [
+    "Roblox/全栈开发/教程/Youtube",
+    "Roblox/全栈开发/教程",
+    "Roblox/全栈开发/未命名.md",
+    "Roblox/Frame.md",
     "手机端.md",
     "GitHub面经.md",
     "Roblox/teleport.md",
-    "Roblox/Frame.md",
     "Roblox/全栈开发/开发文档/Part.md",
     "Roblox/全栈开发/开发文档/Luau 和 CSharp 的比较.md",
     "Roblox/全栈开发/开发文档/表.md",
     "Roblox/全栈开发/基础常识.md",
-    "Roblox/全栈开发/未命名.md",
     "Roblox/全栈开发/单词含义.md",
     "Roblox/全栈开发/开发文档",
     "Roblox/全栈开发/官方速查文档.md",
@@ -238,10 +240,8 @@
     "Code_Monkey/ChaosKitchen/assets/涉及知识点/file-20260117084953901.png",
     "Code_Monkey/ChaosKitchen/assets/涉及知识点/file-20260116223349312.png",
     "Code_Monkey/ChaosKitchen/assets/涉及知识点",
-    "Code_Monkey/ChaosKitchen/assets",
     "Code_Monkey/ChaosKitchen/面试题.md",
     "Code_Monkey/ChaosKitchen/知识点.md",
-    "Code_Monkey/ChaosKitchen/涉及知识点.md",
-    "Code_Monkey/ChaosKitchen/思考.md"
+    "Code_Monkey/ChaosKitchen/涉及知识点.md"
   ]
 }
