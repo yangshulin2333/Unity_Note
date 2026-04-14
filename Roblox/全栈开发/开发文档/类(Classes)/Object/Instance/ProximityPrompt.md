@@ -51,9 +51,7 @@
 
 ### 简单示例
 
-lua
-
-```
+```lua
 local prompt = script.Parent
 
 prompt.Triggered:Connect(function(player)
