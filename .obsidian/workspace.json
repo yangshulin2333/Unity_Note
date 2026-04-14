@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roblox/全栈开发/开发文档/Roblox基础/区别/Player&Character.md",
+                "file": "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/PVInstance/Model/BackpackItem/Tool.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Player&Character"
+              "title": "Tool"
             }
           }
         ],
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roblox/全栈开发/开发文档/Roblox基础/区别/Player&Character.md",
+                "file": "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/PVInstance/Model/BackpackItem/Tool.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Player&Character 的大纲"
+              "title": "Tool 的大纲"
             }
           }
         ],
@@ -215,22 +215,26 @@
   },
   "active": "dd8f7ceee20083e4",
   "lastOpenFiles": [
-    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/Backpack.md",
+    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/Service/Backpack.md",
+    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/PVInstance/Model/BackpackItem/Tool.md",
+    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/PVInstance/Model/BackpackItem",
+    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/PVInstance/Model",
+    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/架构.md",
+    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/Service",
+    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/Humanoid",
+    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/BackpackItem",
+    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/GuiObject",
+    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/PVInstance",
     "Roblox/全栈开发/开发文档/Roblox基础/区别/Player&Character.md",
     "Roblox/全栈开发/开发文档/Roblox基础/区别",
     "Roblox/全栈开发/开发文档/Roblox基础",
-    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/StarterPack.md",
+    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/Service/StarterPack.md",
     "Roblox/全栈开发/开发文档/相关prompt.md",
     "Roblox/全栈开发/教程/Youtube/TheDevKing/剑盾工具.md",
     "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance",
-    "Roblox/全栈开发/开发文档/类(Classes)/Object",
-    "Roblox/全栈开发/开发文档/类(Classes)",
     "Roblox/全栈开发/基础常识.md",
     "Roblox/全栈开发/开发规范.md",
     "Roblox/Frame.md",
-    "Roblox/全栈开发/教程/Youtube/TheDevKing",
-    "Roblox/全栈开发/教程/Youtube",
-    "Roblox/全栈开发/教程",
     "Roblox/全栈开发/未命名.md",
     "手机端.md",
     "GitHub面经.md",
@@ -239,9 +243,7 @@
     "Roblox/全栈开发/开发文档/Luau 和 CSharp 的比较.md",
     "Roblox/全栈开发/开发文档/表.md",
     "Roblox/全栈开发/单词含义.md",
-    "Roblox/全栈开发/开发文档",
     "Roblox/全栈开发/官方速查文档.md",
-    "Roblox/全栈开发",
     "PC端/微信好友.md",
     "PC端/面试对话.md",
     "PC端/实施面试.md",
@@ -250,8 +252,6 @@
     "PC端/面经1.md",
     "未命名.md",
     "assets/GitHub面经/file-20260409080730843.jpg",
-    "Code_Monkey/ChaosKitchen/面经.md",
-    "Code_Monkey/ChaosKitchen/Chapter/玩家选择，CSharp 接口.md",
     "Code_Monkey/ChaosKitchen/assets/涉及知识点/file-20260120130135186.png",
     "Code_Monkey/ChaosKitchen/assets/涉及知识点/file-20260120010902807.png",
     "Code_Monkey/ChaosKitchen/assets/涉及知识点/file-20260117142102538.png",
