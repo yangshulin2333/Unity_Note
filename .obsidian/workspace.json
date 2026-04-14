@@ -53,12 +53,14 @@
             "id": "fb856c36f3d4f7d5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Roblox/全栈开发/开发文档/类(Classes)/大纲.md"
+                "file": "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/架构.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "大纲"
+              "icon": "lucide-file",
+              "title": "架构"
             }
           }
         ],
@@ -197,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roblox/全栈开发/开发文档/类(Classes)/大纲.md",
+                "file": "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/架构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲 的大纲"
+              "title": "架构 的大纲"
             }
           }
         ],
@@ -228,30 +230,30 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "d0d07b32decba7d2",
+  "active": "fb856c36f3d4f7d5",
   "lastOpenFiles": [
+    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/PVInstance/Model/Tool.md",
+    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/架构.md",
+    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/BasePart",
     "Roblox/全栈开发/开发文档/类(Classes)/大纲.md",
-    "Roblox/全栈开发/开发文档/类(Classes)/大纲.md",
-    "Roblox/全栈开发/开发文档/类(Classes)/未命名.md",
+    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/ProximityPrompt.md",
+    "Roblox/全栈开发/开发文档/相关prompt.md",
     "Roblox/全栈开发/开发文档/类(Classes)/assets/大纲/file-20260414130233260.jpg",
+    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/assets/架构/file-20260414125744497.jpg",
+    "Roblox/全栈开发/开发文档/类(Classes)/未命名.md",
     "Roblox/全栈开发/开发文档/类(Classes)/assets/大纲",
     "Roblox/全栈开发/开发文档/类(Classes)/assets",
     "Roblox/全栈开发/开发文档/类(Classes)/未命名.canvas",
-    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/架构.md",
-    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/assets/架构/file-20260414125744497.jpg",
     "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/assets/架构",
     "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/assets",
-    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/PVInstance/Model/BackpackItem/Tool.md",
     "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/Service/Backpack.md",
     "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/PVInstance/Model/BackpackItem",
     "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/PVInstance/Model",
     "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/Service",
     "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/Humanoid",
     "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/BackpackItem",
-    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/GuiObject",
     "Roblox/全栈开发/开发文档/Roblox基础/区别/Player&Character.md",
     "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/Service/StarterPack.md",
-    "Roblox/全栈开发/开发文档/相关prompt.md",
     "Roblox/全栈开发/教程/Youtube/TheDevKing/剑盾工具.md",
     "Roblox/全栈开发/基础常识.md",
     "Roblox/全栈开发/开发规范.md",
@@ -268,7 +270,6 @@
     "PC端/微信好友.md",
     "PC端/面试对话.md",
     "PC端/实施面试.md",
-    "PC端/自我介绍.md",
     "assets/GitHub面经/file-20260409080730843.jpg",
     "Code_Monkey/ChaosKitchen/assets/涉及知识点/file-20260120130135186.png",
     "Code_Monkey/ChaosKitchen/assets/涉及知识点/file-20260120010902807.png",
