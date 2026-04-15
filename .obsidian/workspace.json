@@ -1,0 +1,308 @@
+{
+  "main": {
+    "id": "4ff81dff92118e3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1643cf49b688f353",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3accdc91a277ff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PC端/面试对话.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "面试对话"
+            }
+          },
+          {
+            "id": "648d9d490c8b11e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roblox/全栈开发/教程/Youtube/TheDevKing/常用内置函数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "常用内置函数"
+            }
+          },
+          {
+            "id": "dd8f7ceee20083e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roblox/Demo1/数据持久化 (Data).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数据持久化 (Data)"
+            }
+          },
+          {
+            "id": "fb856c36f3d4f7d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roblox/Demo1/数据持久化 (Data).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数据持久化 (Data)"
+            }
+          },
+          {
+            "id": "a5d98af04ede7d34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roblox/Demo1/大纲.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "d03253dec6cf5b89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96aa7629dcfd5ab0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e68364ed7bae87b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0d07b32decba7d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a9599e08ca35e764",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "cb3fe85a73ace1f8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f5828e2020c65525",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f9c7ba6b56dfe4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5303a4e410704d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PC端/面试对话.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "面试对话 的反向链接列表"
+            }
+          },
+          {
+            "id": "97249b33847070c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GitHub面经.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "GitHub面经 的出链列表"
+            }
+          },
+          {
+            "id": "12506798e76232d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e2762884589b1b70",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "47abc3bfad13876a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "conflict-files-obsidian-git 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "d03253dec6cf5b89",
+  "lastOpenFiles": [
+    "Roblox/Demo1/临时同步使用.md",
+    "Roblox/Demo1/大纲.md",
+    "Roblox/Demo1/数据持久化 (Data).md",
+    "conflict-files-obsidian-git.md",
+    "Roblox/全栈开发/开发文档/Luau 和 CSharp 的比较.md",
+    "Roblox/Roblox面板/资源管理器.md",
+    "Roblox/Roblox面板",
+    "开发规范.md",
+    "官方速查文档.md",
+    "基础常识.md",
+    "单词含义.md",
+    "Roblox/Demo1",
+    "assets/GitHub面经/file-20260409080730843.jpg",
+    "assets/GitHub面经",
+    "assets",
+    "Roblox/全栈开发/开发规范.md",
+    "Roblox/全栈开发/官方速查文档.md",
+    "Roblox/全栈开发/基础常识.md",
+    "Roblox/全栈开发/单词含义.md",
+    "GitHub面经.md",
+    "Roblox/全栈开发/教程/Youtube/TheDevKing/常用内置函数.md",
+    "Roblox/全栈开发/教程/Youtube/TheDevKing/剑盾工具.md",
+    "Roblox/全栈开发/教程/Youtube/TheDevKing/鼠标.md",
+    "Roblox/全栈开发/教程/Youtube/TheDevKing/LocalScript.md",
+    "Roblox/全栈开发/教程/Youtube/TheDevKing/Filtering Enabled(FE).md",
+    "Roblox/全栈开发/模型/模型导入/导入失败.md",
+    "Roblox/全栈开发/模块化通用模板/世界对象与UI联动.md",
+    "Roblox/全栈开发/模型/模型导入",
+    "Roblox/全栈开发/模型",
+    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/ProximityPrompt.md",
+    "Roblox/全栈开发/模块化通用模板",
+    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/架构.md",
+    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/PVInstance/Model/Tool.md",
+    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/BasePart",
+    "Roblox/全栈开发/开发文档/类(Classes)/大纲.md",
+    "Roblox/全栈开发/开发文档/类(Classes)/assets/大纲/file-20260414130233260.jpg",
+    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/assets/架构/file-20260414125744497.jpg",
+    "Roblox/全栈开发/开发文档/类(Classes)/assets/大纲",
+    "Roblox/全栈开发/开发文档/类(Classes)/assets",
+    "Roblox/全栈开发/开发文档/类(Classes)/未命名.canvas",
+    "Code_Monkey/ChaosKitchen/assets/涉及知识点/file-20260120130135186.png",
+    "Code_Monkey/ChaosKitchen/assets/涉及知识点/file-20260120010902807.png",
+    "Code_Monkey/ChaosKitchen/assets/涉及知识点/file-20260117142102538.png",
+    "Code_Monkey/ChaosKitchen/assets/涉及知识点/file-20260117084953901.png",
+    "Code_Monkey/ChaosKitchen/assets/涉及知识点/file-20260116223349312.png"
+  ]
+}
