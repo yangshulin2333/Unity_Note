@@ -67,3 +67,18 @@ end
 return DataManager
 ```
 
+### 1. `LoadProfileAsync`：核心加载函数
+
+Lua
+
+```
+local profile = ProfileStore:LoadProfileAsync("Player_" .. player.UserId, "ForceLoad")
+```
+
+- **参数 1 (Key)：** `string` 类型。
+    
+    - **原理**：这是数据库里的“索引”。每个玩家必须唯一，所以用 `"Player_" .. player.UserId`。`UserId` 是玩家唯一的数字 ID，这样即使玩家改了名字，数据也不会丢。
+        
+- **参数 2 (Handle Method)：** `string` 类型。
+    
+    - **原理**：这里通常传 `"ForceLoad"`。它的意思是：如果数据在别的服务器被锁住了，这台服务器会强行接管它。
