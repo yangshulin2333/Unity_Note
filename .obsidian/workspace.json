@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roblox/全栈开发/教程/Youtube/TheDevKing/常用内置函数.md",
+                "file": "Roblox/Demo1/数据持久化 (Data).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "常用内置函数"
+              "title": "数据持久化 (Data)"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roblox/全栈开发/教程/Youtube/TheDevKing/常用内置函数.md",
+                "file": "Roblox/Demo1/数据持久化 (Data).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "常用内置函数 的大纲"
+              "title": "数据持久化 (Data) 的大纲"
             }
           }
         ],
@@ -201,9 +201,22 @@
   },
   "active": "648d9d490c8b11e0",
   "lastOpenFiles": [
+    "Roblox/Demo1/大纲.md",
+    "Roblox/Demo1/数据持久化 (Data).md",
+    "GitHub面经.md",
+    "Roblox/Demo1",
+    "Roblox/框架",
+    "Roblox/全栈开发/开发文档/开发规范.md",
+    "Roblox/全栈开发/开发文档/单词含义.md",
+    "Roblox/全栈开发/开发文档/表.md",
+    "开发规范.md",
+    "基础常识.md",
+    "官方速查文档.md",
+    "单词含义.md",
+    "Roblox/全栈开发/开发文档/官方速查文档.md",
+    "Roblox/全栈开发/教程/Youtube/TheDevKing/常用内置函数.md",
     "Roblox/全栈开发/教程/Youtube/TheDevKing/剑盾工具.md",
     "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/Service/StarterPack.md",
-    "Roblox/全栈开发/教程/Youtube/TheDevKing/常用内置函数.md",
     "Roblox/全栈开发/教程/Youtube/TheDevKing/LocalScript.md",
     "Roblox/全栈开发/教程/Youtube/TheDevKing/Filtering Enabled(FE).md",
     "Roblox/全栈开发/教程/Youtube/TheDevKing/鼠标.md",
@@ -216,27 +229,14 @@
     "Roblox/全栈开发/教程/Youtube/TheDevKing",
     "Roblox/全栈开发/教程/Youtube",
     "Roblox/全栈开发/教程",
-    "Roblox/全栈开发/开发规范.md",
     "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/PVInstance/Model/Tool.md",
     "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/Service/Backpack.md",
     "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/PVInstance/Model",
     "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/架构.md",
     "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/Service",
-    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/PVInstance",
     "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance/ProximityPrompt.md",
-    "Roblox/全栈开发/开发文档/类(Classes)/Object/Instance",
     "Roblox/全栈开发/开发文档/相关prompt.md",
     "Roblox/全栈开发/开发文档/Roblox基础/区别/Player&Character.md",
-    "Roblox/teleport.md",
-    "Roblox/Frame.md",
-    "Roblox/全栈开发/开发文档/Luau 和 CSharp 的比较.md",
-    "Roblox/全栈开发/开发文档/表.md",
-    "Roblox/全栈开发/基础常识.md",
-    "Roblox/全栈开发/未命名.md",
-    "Roblox/全栈开发/单词含义.md",
-    "Roblox/全栈开发/官方速查文档.md",
-    "Roblox/全栈开发/学习大纲.md",
-    "PC端/微信好友.md",
     "assets/GitHub面经/file-20260409080730843.jpg",
     "Code_Monkey/ChaosKitchen/assets/涉及知识点/file-20260120130135186.png",
     "Code_Monkey/ChaosKitchen/assets/涉及知识点/file-20260120010902807.png",
