@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Roblox/Demo1/临时同步使用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "临时同步使用"
             }
           }
         ],
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Roblox/Demo1/临时同步使用.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "conflict-files-obsidian-git 的大纲"
+              "title": "临时同步使用 的大纲"
             }
           }
         ],
@@ -259,10 +259,10 @@
   },
   "active": "d03253dec6cf5b89",
   "lastOpenFiles": [
-    "Roblox/Demo1/临时同步使用.md",
-    "Roblox/Demo1/大纲.md",
     "Roblox/Demo1/数据持久化 (Data).md",
-    "conflict-files-obsidian-git.md",
+    "Roblox/Demo1/临时同步使用.md",
+    "Obsidian + Git 冲突解决总结笔记.md",
+    "Roblox/Demo1/大纲.md",
     "Roblox/全栈开发/开发文档/Luau 和 CSharp 的比较.md",
     "Roblox/Roblox面板/资源管理器.md",
     "Roblox/Roblox面板",
