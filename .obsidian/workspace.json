@@ -39,14 +39,12 @@
             "id": "dd8f7ceee20083e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Roblox/游戏框架/组织结构.md",
-                "mode": "source",
-                "source": false
+                "file": "Roblox/横扫千军/流程图.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "组织结构"
+              "icon": "excalidraw-icon",
+              "title": "流程图.excalidraw"
             }
           },
           {
@@ -241,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PC端/面试对话.md",
+                "file": "Roblox/横扫千军/流程图.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "面试对话 的大纲"
+              "title": "流程图.excalidraw 的大纲"
             }
           }
         ],
@@ -271,36 +269,37 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "d0d07b32decba7d2",
+  "active": "dd8f7ceee20083e4",
   "lastOpenFiles": [
+    "Roblox/横扫千军/模块表.md",
+    "Roblox/横扫千军/开发文档V1.md",
+    "Roblox开发工作流/Roblox 工业级项目初始化标准作业程序 (SOP).md",
+    "流程图Prompt.md",
+    "Roblox/横扫千军/流程图.excalidraw.md",
+    "Roblox开发工作流/工作流.md",
+    "Roblox/横扫千军/开发文档测试版.md",
+    "Roblox/横扫千军/开发文档V0.md",
+    "开发规范.md",
+    "Roblox/游戏框架/组织结构.md",
     "Roblox/全栈开发/教程/Youtube/GnomeCode",
     "Roblox/游戏框架/Leif 的 Service 架构.md",
-    "Roblox/游戏框架/组织结构.md",
     "Roblox/游戏框架/Fusion框架.md",
     "Roblox/游戏框架/学习大纲2.md",
     "Roblox/游戏框架/学习大纲.md",
-    "Roblox开发工作流/Roblox 工业级项目初始化标准作业程序 (SOP).md",
-    "Roblox开发工作流/工作流.md",
     "Roblox/游戏框架/数据持久化 (Data).md",
     "wally.run.md",
     "Roblox开发工作流/VSCode.md",
     "Roblox开发工作流/Wally.md",
     "Roblox开发工作流/Rojo.md",
     "Roblox开发工作流/Git.md",
-    "Roblox/横扫千军/开发文档.md",
     "Roblox/Frame.md",
     "Roblox开发工作流",
     "Roblox/游戏框架/Matter框架.md",
     "Roblox/全栈开发/教程/学习路径.md",
-    "Roblox/横扫千军/开发文档2.md",
-    "Roblox/横扫千军/流程图.excalidraw.md",
-    "流程图Prompt.md",
-    "Roblox/横扫千军/模块表.md",
     "Roblox/横扫千军/类型参考.md",
     "Roblox/横扫千军/assets/类型参考",
     "Roblox/全栈开发/教程/Youtube/TheDevKing/鼠标.md",
     "Roblox/全栈开发/教程/Youtube/TheDevKing/剑盾工具.md",
-    "Roblox/全栈开发/教程/Youtube/TheDevKing/常用内置函数.md",
     "Roblox/横扫千军/assets/类型参考/file-20260416095122360.jpg",
     "Roblox/横扫千军/assets/类型参考/file-20260416095122361.jpg",
     "Roblox/横扫千军/assets/类型参考/file-20260416095122361 1.jpg",
@@ -317,7 +316,6 @@
     "assets/GitHub面经/file-20260409080730843.jpg",
     "assets/GitHub面经",
     "assets",
-    "Roblox/全栈开发/模型/模型导入",
     "Roblox/全栈开发/开发文档/类(Classes)/assets/大纲/file-20260414130233260.jpg",
     "Roblox/全栈开发/开发文档/类(Classes)/未命名.canvas"
   ]
