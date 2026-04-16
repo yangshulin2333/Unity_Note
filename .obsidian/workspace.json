@@ -39,12 +39,14 @@
             "id": "dd8f7ceee20083e4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Roblox/横扫千军/流程图.excalidraw.md"
+                "file": "Roblox/横扫千军/开发文档V0.1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "流程图.excalidraw"
+              "icon": "lucide-file",
+              "title": "开发文档V0.1"
             }
           },
           {
@@ -239,13 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roblox/横扫千军/流程图.excalidraw.md",
+                "file": "Roblox/横扫千军/开发文档V0.1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "流程图.excalidraw 的大纲"
+              "title": "开发文档V0.1 的大纲"
             }
           }
         ],
@@ -271,15 +273,16 @@
   },
   "active": "dd8f7ceee20083e4",
   "lastOpenFiles": [
-    "Roblox/横扫千军/开发文档V1.md",
     "Roblox/横扫千军/流程图.excalidraw.md",
+    "Roblox/横扫千军/开发文档V0.md",
+    "Roblox/横扫千军/开发文档V0.1.md",
+    "Roblox/横扫千军/开发文档测试版.md",
+    "Roblox/横扫千军/开发文档_废弃.md",
     "Roblox/横扫千军/202604161716.md",
     "Roblox/横扫千军/模块表.md",
     "Roblox开发工作流/Roblox 工业级项目初始化标准作业程序 (SOP).md",
     "流程图Prompt.md",
     "Roblox开发工作流/工作流.md",
-    "Roblox/横扫千军/开发文档测试版.md",
-    "Roblox/横扫千军/开发文档V0.md",
     "开发规范.md",
     "Roblox/游戏框架/组织结构.md",
     "Roblox/全栈开发/教程/Youtube/GnomeCode",
@@ -299,7 +302,6 @@
     "Roblox/全栈开发/教程/学习路径.md",
     "Roblox/横扫千军/类型参考.md",
     "Roblox/横扫千军/assets/类型参考",
-    "Roblox/全栈开发/教程/Youtube/TheDevKing/鼠标.md",
     "Roblox/横扫千军/assets/类型参考/file-20260416095122360.jpg",
     "Roblox/横扫千军/assets/类型参考/file-20260416095122361.jpg",
     "Roblox/横扫千军/assets/类型参考/file-20260416095122361 1.jpg",
