@@ -39,26 +39,26 @@
             "id": "dd8f7ceee20083e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Roblox/横扫千军/类型参考.md",
-                "mode": "source",
-                "source": false
+                "file": "Roblox/横扫千军/游戏草图.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "类型参考"
+              "icon": "excalidraw-icon",
+              "title": "游戏草图.excalidraw"
             }
           },
           {
             "id": "b2e20b0619f58094",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Roblox/横扫千军/Drawing 2026-04-17 16.14.09.excalidraw.md"
+                "file": "Roblox/横扫千军/开发文档V0.2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-17 16.14.09.excalidraw"
+              "icon": "lucide-file",
+              "title": "开发文档V0.2"
             }
           },
           {
@@ -211,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roblox/横扫千军/Drawing 2026-04-17 16.14.09.excalidraw.md",
+                "file": "Roblox/横扫千军/开发文档V0.2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2026-04-17 16.14.09.excalidraw 的大纲"
+              "title": "开发文档V0.2 的大纲"
             }
           }
         ],
@@ -243,11 +243,11 @@
   },
   "active": "b2e20b0619f58094",
   "lastOpenFiles": [
+    "Roblox/横扫千军/游戏草图.excalidraw.md",
     "Roblox/横扫千军/类型参考.md",
-    "Roblox/横扫千军/Drawing 2026-04-17 16.14.09.excalidraw.md",
-    "Roblox/Roblox面板/资源管理器.md",
-    "Roblox/横扫千军/开发文档V0.2.md",
     "Roblox/横扫千军/开发文档V0.1.md",
+    "Roblox/横扫千军/开发文档V0.2.md",
+    "Roblox/Roblox面板/资源管理器.md",
     "Roblox/横扫千军/资源模型/3D资产.md",
     "Roblox/横扫千军/变量命名释义.md",
     "PC端/面试对话.md",
