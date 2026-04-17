@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roblox/全栈开发/教程/Youtube/TheDevKing/常用内置函数.md",
+                "file": "Roblox/横扫千军/开发文档V0.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "常用内置函数"
+              "title": "开发文档V0.1"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roblox/横扫千军/资源模型/未命名.md",
+                "file": "Roblox/横扫千军/资源模型/3D资产.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "3D资产"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roblox/横扫千军/资源模型/未命名.md",
+                "file": "Roblox/横扫千军/开发文档V0.1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "开发文档V0.1 的大纲"
             }
           }
         ],
@@ -229,14 +229,14 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "dd8f7ceee20083e4",
+  "active": "648d9d490c8b11e0",
   "lastOpenFiles": [
+    "Roblox/全栈开发/教程/Youtube/TheDevKing/常用内置函数.md",
+    "Roblox/横扫千军/资源模型/3D资产.md",
     "Roblox/横扫千军/开发文档V0.1.md",
-    "Roblox/横扫千军/资源模型/未命名.md",
     "Roblox/横扫千军/资源模型",
     "Roblox/横扫千军/变量命名释义.md",
     "Roblox/横扫千军/流程图.excalidraw.md",
-    "Roblox/全栈开发/教程/Youtube/TheDevKing/常用内置函数.md",
     "Roblox/游戏框架/数据持久化 (Data).md",
     "Roblox/横扫千军/开发文档V0.md",
     "Roblox/横扫千军/开发文档测试版.md",
