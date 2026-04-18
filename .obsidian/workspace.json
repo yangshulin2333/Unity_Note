@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e3accdc91a277ff1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roblox/横扫千军/V0.0版本/开发文档V0.0.1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "开发文档V0.0.1"
-            }
-          },
-          {
             "id": "648d9d490c8b11e0",
             "type": "leaf",
             "state": {
@@ -88,6 +74,20 @@
               "icon": "lucide-file",
               "title": "结构目录"
             }
+          },
+          {
+            "id": "e3accdc91a277ff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roblox/横扫千军/V0.0版本/开发文档V0.0.1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "开发文档V0.0.1"
+            }
           }
         ],
         "currentTab": 5
@@ -147,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5,
-    "collapsed": true
+    "width": 330.5
   },
   "right": {
     "id": "f5828e2020c65525",
@@ -226,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roblox/横扫千军/V0.0版本/结构目录.md",
+                "file": "Roblox/横扫千军/V0.0版本/开发文档V0.0.1.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "结构目录 的大纲"
+              "title": "开发文档V0.0.1 的大纲"
             }
           }
         ],
@@ -256,19 +255,19 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "fb856c36f3d4f7d5",
+  "active": "e3accdc91a277ff1",
   "lastOpenFiles": [
+    "Roblox/横扫千军/V0.0版本/第一阶段逐行拆解教学版 Part 1.md",
     "Roblox/横扫千军/V0.0版本/开发文档V0.0.1.md",
     "Roblox/横扫千军/V0.0版本/结构目录.md",
+    "Roblox/横扫千军/开发文档V0.md",
     "Roblox/横扫千军/变量命名释义.md",
-    "Roblox/横扫千军/V0.0版本/第一阶段逐行拆解教学版 Part 1.md",
     "Roblox/横扫千军/V0.0版本/V0.0.1补充.md",
     "Roblox/横扫千军/类型参考.md",
     "Roblox/横扫千军/流程图.excalidraw.md",
     "Roblox/横扫千军/模块表.md",
     "Roblox/横扫千军/游戏草图.excalidraw.md",
     "Roblox/横扫千军/V0.0版本/开发文档V0.0.2.md",
-    "Roblox/横扫千军/开发文档V0.md",
     "Roblox/横扫千军/V0.0版本",
     "Roblox/横扫千军/202604161716.md",
     "Roblox/Roblox面板/资源管理器.md",
