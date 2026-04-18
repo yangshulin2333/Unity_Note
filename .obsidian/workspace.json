@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roblox/横扫千军/V0.0版本/V0.0.1补充.md",
+                "file": "Roblox/横扫千军/V0.0版本/开发文档V0.0.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "V0.0.1补充"
+              "title": "开发文档V0.0.1"
             }
           },
           {
@@ -225,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roblox/横扫千军/V0.0版本/V0.0.1补充.md",
+                "file": "Roblox/横扫千军/V0.0版本/开发文档V0.0.1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "V0.0.1补充 的大纲"
+              "title": "开发文档V0.0.1 的大纲"
             }
           }
         ],
@@ -257,11 +257,11 @@
   },
   "active": "3d1461219169d73f",
   "lastOpenFiles": [
+    "Roblox/横扫千军/V0.0版本/V0.0.1补充.md",
     "Roblox/横扫千军/类型参考.md",
     "Roblox/横扫千军/流程图.excalidraw.md",
     "Roblox/横扫千军/模块表.md",
     "Roblox/横扫千军/游戏草图.excalidraw.md",
-    "Roblox/横扫千军/V0.0版本/V0.0.1补充.md",
     "Roblox/横扫千军/V0.0版本/开发文档V0.0.1.md",
     "Roblox/横扫千军/V0.0版本/开发文档V0.0.2.md",
     "Roblox/横扫千军/开发文档V0.md",
