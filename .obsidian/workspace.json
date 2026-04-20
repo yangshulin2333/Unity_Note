@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -225,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roblox/全栈开发/知识点.md",
+                "file": "Roblox/奇幻小小英雄/第2.5 A阶段.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "知识点 的大纲"
+              "title": "第2.5 A阶段 的大纲"
             }
           }
         ],
@@ -255,10 +255,10 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "b2e20b0619f58094",
+  "active": "e3accdc91a277ff1",
   "lastOpenFiles": [
-    "Roblox/奇幻小小英雄/第2.5 A阶段.md",
     "Roblox/全栈开发/知识点.md",
+    "Roblox/奇幻小小英雄/第2.5 A阶段.md",
     "Roblox/横扫千军/开发文档V0.md",
     "Roblox/奇幻小小英雄/第2阶段.md",
     "Roblox/奇幻小小英雄/第1阶段：项目目录结构和模块分层.md",
