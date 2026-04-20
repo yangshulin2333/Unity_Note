@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roblox/横扫千军/资源模型/3D资产.md",
+                "file": "Roblox/奇幻小小英雄/第2.5-B阶段：写 Controller.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3D资产"
+              "title": "第2.5-B阶段：写 Controller"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roblox/奇幻小小英雄/第2.5-B阶段：写 Controller.md",
+                "file": "基础常识.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第2.5-B阶段：写 Controller"
+              "title": "基础常识"
             }
           },
           {
@@ -91,8 +91,7 @@
               "title": "第2.5 A阶段"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,13 +256,14 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "dd8f7ceee20083e4",
+  "active": "648d9d490c8b11e0",
   "lastOpenFiles": [
     "Roblox/横扫千军/资源模型/3D资产.md",
+    "Roblox/奇幻小小英雄/第2.5 A阶段.md",
+    "基础常识.md",
     "Roblox/奇幻小小英雄/第2.5-B阶段：写 Controller.md",
     "Roblox/横扫千军/资源模型/3ds Max 至 Roblox Studio 资源导入指南.md",
     "Roblox/横扫千军/游戏草图.excalidraw.md",
-    "Roblox/奇幻小小英雄/第2.5 A阶段.md",
     "Roblox/奇幻小小英雄/第2阶段_Delete.md",
     "Roblox/奇幻小小英雄/第1阶段：项目目录结构和模块分层.md",
     "Roblox/奇幻小小英雄/开发文档2.md",
@@ -284,7 +284,6 @@
     "Roblox/横扫千军/V0.0版本/结构目录.md",
     "Roblox/横扫千军/V0.0版本/第一阶段逐行拆解教学版 Part 1.md",
     "Roblox/奇幻小小英雄/第1.1.1.md",
-    "Roblox/奇幻小小英雄/构思.md",
     "Roblox/奇幻小小英雄",
     "Roblox/横扫千军/V0.0版本",
     "Roblox/横扫千军/资源模型",
