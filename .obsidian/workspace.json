@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roblox/全栈开发/教程/Youtube/AlvinBlox/新建商店.md",
+                "file": "Roblox/全栈开发/教程/Youtube/GnomeCode/制作一个基于回合传送的游戏.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "新建商店"
+              "title": "制作一个基于回合传送的游戏"
             }
           },
           {
@@ -226,13 +226,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roblox/全栈开发/教程/Youtube/AlvinBlox/新建商店.md",
+                "file": "Roblox/全栈开发/教程/Youtube/GnomeCode/制作一个基于回合传送的游戏.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "新建商店 的大纲"
+              "title": "制作一个基于回合传送的游戏 的大纲"
             }
           }
         ],
@@ -258,8 +258,9 @@
   },
   "active": "648d9d490c8b11e0",
   "lastOpenFiles": [
-    "Roblox/奇幻小小英雄/第 2.5-C阶段  2.5-D.md",
     "Roblox/全栈开发/教程/Youtube/AlvinBlox/新建商店.md",
+    "Roblox/全栈开发/教程/Youtube/GnomeCode/制作一个基于回合传送的游戏.md",
+    "Roblox/奇幻小小英雄/第 2.5-C阶段  2.5-D.md",
     "Roblox/全栈开发/教程/Youtube/AlvinBlox",
     "Roblox/奇幻小小英雄/第2.5-B阶段：写 Controller.md",
     "Roblox/横扫千军/资源模型/3D资产.md",
@@ -284,7 +285,6 @@
     "Roblox/全栈开发/模型/模型导入/3DModel导入.md",
     "Roblox/全栈开发/模型/模型导入/导入失败.md",
     "Roblox/全栈开发/知识点.md",
-    "Roblox/横扫千军/V0.0版本/结构目录.md",
     "Roblox/奇幻小小英雄",
     "Roblox/横扫千军/V0.0版本",
     "Roblox/横扫千军/资源模型",
