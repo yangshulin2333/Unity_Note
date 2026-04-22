@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础常识.md",
+                "file": "Roblox/奇幻小小英雄/知识学习/复习2.5C阶段前的内容.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "基础常识 的大纲"
+              "title": "复习2.5C阶段前的内容 的大纲"
             }
           }
         ],
@@ -257,15 +257,15 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "3d1461219169d73f",
+  "active": "dd8f7ceee20083e4",
   "lastOpenFiles": [
-    "Roblox/全栈开发/知识点.md",
+    "基础常识.md",
     "Roblox/奇幻小小英雄/知识学习/复习2.5C阶段前的内容.md",
+    "Roblox/全栈开发/知识点.md",
     "Roblox/奇幻小小英雄/可借鉴游戏.md",
     "Roblox/奇幻小小英雄/开发文档2.md",
     "Roblox/场景建造/PBR贴图.md",
     "Roblox/场景建造",
-    "基础常识.md",
     "Roblox/全栈开发/模型/模型导入/3ds Max 至 Roblox Studio 资源导入指南.md",
     "Roblox/横扫千军/资源模型/3ds Max 至 Roblox Studio 资源导入指南.md",
     "Roblox/奇幻小小英雄/知识学习",
