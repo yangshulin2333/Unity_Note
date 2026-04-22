@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roblox/资源/PBR贴图.md",
+                "file": "Roblox/场景建造/PBR贴图.md",
                 "mode": "source",
                 "source": false
               },
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roblox/资源/PBR贴图.md",
+                "file": "Roblox/场景建造/PBR贴图.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -257,11 +257,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "dd8f7ceee20083e4",
+  "active": "d0d07b32decba7d2",
   "lastOpenFiles": [
     "Roblox/奇幻小小英雄/知识学习/复习2.5C阶段前的内容.md",
-    "Roblox/资源/PBR贴图.md",
-    "Roblox/资源",
+    "Roblox/场景建造/PBR贴图.md",
+    "Roblox/场景建造",
     "基础常识.md",
     "Roblox/全栈开发/模型/模型导入/3ds Max 至 Roblox Studio 资源导入指南.md",
     "Roblox/奇幻小小英雄/可借鉴游戏.md",
