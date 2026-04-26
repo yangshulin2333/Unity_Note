@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roblox/奇幻小小英雄/开发流程/第 3.0 阶段.md",
+                "file": "Roblox/奇幻小小英雄/开发流程/第 3.0 - B2 阶段： UI框架补充.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第 3.0 阶段"
+              "title": "第 3.0 - B2 阶段： UI框架补充"
             }
           },
           {
@@ -91,8 +91,7 @@
               "title": "3ds Max 至 Roblox Studio 资源导入指南"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,13 +226,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roblox/全栈开发/教程/Youtube/Kek/Figma基础/视频教程.md",
+                "file": "Roblox/奇幻小小英雄/开发流程/第 3.0 - B2 阶段： UI框架补充.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "视频教程 的大纲"
+              "title": "第 3.0 - B2 阶段： UI框架补充 的大纲"
             }
           }
         ],
@@ -257,20 +256,22 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "dd8f7ceee20083e4",
+  "active": "648d9d490c8b11e0",
   "lastOpenFiles": [
-    "Roblox/全栈开发/教程/Youtube/Kek/初级UI.md",
+    "Roblox/奇幻小小英雄/开发流程/第 3.0 - B 阶段：主界面 UI 框架.md",
+    "Roblox/奇幻小小英雄/开发流程/第 3.0 - B2 阶段： UI框架补充.md",
+    "Roblox/奇幻小小英雄/开发流程/第 3.0 - A 阶段.md",
+    "Roblox/奇幻小小英雄/开发流程/第 2.5 - D 阶段 传送系统.md",
     "Roblox/全栈开发/教程/Youtube/Kek/Figma基础/视频教程.md",
+    "Roblox/全栈开发/教程/Youtube/Kek/初级UI.md",
     "Roblox/全栈开发/教程/Youtube/Kek/Figma基础",
     "Roblox/全栈开发/教程/Youtube/Kek/高级UI.md",
     "Roblox/游戏框架/组织结构.md",
     "Roblox/全栈开发/教程/Youtube/Kek",
-    "Roblox/奇幻小小英雄/开发流程/第 3.0 阶段.md",
     "Roblox/横扫千军/资源模型/模型导入颜色过暗.md",
     "Roblox/横扫千军/资源模型/3D资产.md",
     "Roblox/横扫千军/资源模型/3ds Max 至 Roblox Studio 资源导入指南.md",
     "Roblox/奇幻小小英雄/可借鉴游戏.md",
-    "Roblox/奇幻小小英雄/开发流程/第 2.5 - D 阶段 传送系统.md",
     "Roblox/奇幻小小英雄/开发流程/第 2.5 - C 阶段.md",
     "Roblox/奇幻小小英雄/开发流程/第 2.5 - B 阶段：写 Controller.md",
     "Roblox/奇幻小小英雄/开发流程/第 2.5 - A 阶段：UI分支.md",
@@ -285,9 +286,7 @@
     "Roblox/横扫千军/开发文档V0.md",
     "Roblox/横扫千军/类型参考.md",
     "Roblox/横扫千军/开发文档测试版.md",
-    "Roblox/奇幻小小英雄/知识学习/复习2.5C阶段前的内容.md",
     "Roblox/奇幻小小英雄/开发流程",
-    "Roblox/全栈开发/知识点.md",
     "Roblox/场景建造",
     "Roblox/奇幻小小英雄/知识学习",
     "Roblox/奇幻小小英雄/assets/可借鉴游戏/file-20260421143802288.jpg",
