@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roblox/奇幻小小英雄/开发流程/第 3.1 - B 阶段：UI搭建.md",
+                "file": "Roblox/全栈开发/模型/模型导入/模型拆分.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第 3.1 - B 阶段：UI搭建"
+              "title": "模型拆分"
             }
           },
           {
@@ -226,13 +226,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roblox/奇幻小小英雄/开发流程/第 3.1 - B 阶段：UI搭建.md",
+                "file": "Roblox/全栈开发/模型/模型导入/模型拆分.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第 3.1 - B 阶段：UI搭建 的大纲"
+              "title": "模型拆分 的大纲"
             }
           }
         ],
@@ -258,10 +258,11 @@
   },
   "active": "648d9d490c8b11e0",
   "lastOpenFiles": [
+    "Roblox/奇幻小小英雄/开发流程/第 3.1 - B 阶段：UI搭建.md",
+    "Roblox/全栈开发/模型/模型导入/模型拆分.md",
     "Roblox/奇幻小小英雄/开发流程/第 3.1 - A 阶段：后续大纲.md",
     "Roblox/奇幻小小英雄/开发流程/前3.0阶段/第 3.0 - B2 阶段： UI框架补充.md",
     "Roblox/奇幻小小英雄/开发流程/前3.0阶段/第 3.0 - B 阶段：主界面 UI 框架.md",
-    "Roblox/奇幻小小英雄/开发流程/第 3.1 - B 阶段：UI搭建.md",
     "Roblox/奇幻小小英雄/开发流程/前3.0阶段/第1阶段：项目目录结构和模块分层.md",
     "Roblox/奇幻小小英雄/开发流程/前3.0阶段/第 1.1 - A 阶段.md",
     "Roblox/奇幻小小英雄/开发流程/前3.0阶段",
@@ -286,7 +287,6 @@
     "Roblox/奇幻小小英雄/开发文档1.md",
     "Roblox/横扫千军/变量命名释义.md",
     "Roblox/横扫千军/开发文档_废弃.md",
-    "Roblox/横扫千军/开发文档V0.md",
     "Roblox/奇幻小小英雄/开发流程",
     "Roblox/场景建造",
     "Roblox/奇幻小小英雄/知识学习",
