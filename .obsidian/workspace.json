@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roblox/奇幻小小英雄/开发流程/第3阶段-Data/P1：HUD 接真实数据.md",
+                "file": "Roblox/奇幻小小英雄/开发流程/第2阶段-UI/第 3.1 - D 阶段：采集UI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "P1：HUD 接真实数据"
+              "title": "第 3.1 - D 阶段：采集UI"
             }
           },
           {
@@ -91,8 +91,7 @@
               "title": "基础常识"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,13 +226,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础常识.md",
+                "file": "Roblox/奇幻小小英雄/开发流程/第2阶段-UI/第 3.1 - D 阶段：采集UI.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "基础常识 的大纲"
+              "title": "第 3.1 - D 阶段：采集UI 的大纲"
             }
           }
         ],
@@ -257,15 +256,17 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "e3accdc91a277ff1",
+  "active": "648d9d490c8b11e0",
   "lastOpenFiles": [
-    "Roblox/横扫千军/资源模型/3ds Max 至 Roblox Studio 资源导入指南.md",
-    "Roblox/奇幻小小英雄/开发流程/第3阶段-Data/P1：HUD 接真实数据.md",
-    "Roblox/奇幻小小英雄/开发流程/开发总流程.md",
+    "Roblox/奇幻小小英雄/开发流程/第2阶段-UI/第 3.1 - C 游戏加载.md",
+    "Roblox/奇幻小小英雄/开发流程/第2阶段-UI/第 3.1 - D 阶段：采集UI.md",
     "Roblox/奇幻小小英雄/开发流程/第2阶段-UI/第 3.1 - A 阶段：后续大纲.md",
+    "Roblox/奇幻小小英雄/开发流程/第3阶段-Data/P1：HUD 接真实数据.md",
+    "基础常识.md",
+    "Roblox/横扫千军/资源模型/3ds Max 至 Roblox Studio 资源导入指南.md",
+    "Roblox/奇幻小小英雄/开发流程/开发总流程.md",
     "Roblox/奇幻小小英雄/开发流程/第3阶段-Data",
     "Roblox/奇幻小小英雄/开发流程/第2阶段-UI/第 3.1 - B 阶段：UI搭建.md",
-    "Roblox/奇幻小小英雄/开发流程/第2阶段-UI/第 3.1 - C 游戏加载.md",
     "Roblox/奇幻小小英雄/开发流程/第1阶段_teleport/第 3.0 - B2 阶段： UI框架补充.md",
     "Roblox/奇幻小小英雄/开发流程/第1阶段_teleport/第 3.0 - B 阶段：主界面 UI 框架.md",
     "Roblox/全栈开发/教程/Youtube/Kek/Figma基础/视频教程.md",
@@ -288,8 +289,6 @@
     "Roblox/奇幻小小英雄/开发流程/第1阶段_teleport/第 2.5 - C 阶段.md",
     "Roblox/奇幻小小英雄/开发流程/第1阶段_teleport/第 2.5 - B 阶段：写 Controller.md",
     "Roblox/奇幻小小英雄/开发流程/第1阶段_teleport/第 2.5 - A 阶段：UI分支.md",
-    "Roblox/奇幻小小英雄/开发流程/第1阶段_teleport/第 1.1 - B 阶段.md",
-    "Roblox/奇幻小小英雄/开发流程/第1阶段_teleport/第2阶段_Delete.md",
     "Roblox/奇幻小小英雄/开发流程",
     "Roblox/场景建造",
     "Roblox/奇幻小小英雄/知识学习",
