@@ -91,7 +91,8 @@
               "title": "基础常识"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -226,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roblox/奇幻小小英雄/开发流程/第3阶段-Data/P4.md",
+                "file": "基础常识.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "P4 的大纲"
+              "title": "基础常识 的大纲"
             }
           }
         ],
@@ -256,10 +257,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "648d9d490c8b11e0",
+  "active": "3d1461219169d73f",
   "lastOpenFiles": [
-    "Roblox/奇幻小小英雄/开发流程/第2阶段-UI/第 3.1 - A 阶段：后续大纲.md",
+    "Roblox/全栈开发/知识点.md",
     "Roblox/奇幻小小英雄/开发流程/第3阶段-Data/P4.md",
+    "Roblox/奇幻小小英雄/开发流程/第2阶段-UI/第 3.1 - A 阶段：后续大纲.md",
     "Roblox/奇幻小小英雄/开发流程/第2阶段-UI/第 3.1 - B 阶段：UI搭建.md",
     "Roblox/奇幻小小英雄/开发流程/第2阶段-UI/第 3.1 - C 游戏加载.md",
     "Roblox/奇幻小小英雄/开发流程/第2阶段-UI/第 3.1 - D 阶段：采集UI.md",
@@ -288,7 +290,6 @@
     "Roblox/横扫千军/资源模型/3D资产.md",
     "Roblox/奇幻小小英雄/可借鉴游戏.md",
     "Roblox/奇幻小小英雄/开发流程/第1阶段_teleport/第 2.5 - C 阶段.md",
-    "Roblox/奇幻小小英雄/开发流程/第1阶段_teleport/第 2.5 - B 阶段：写 Controller.md",
     "Roblox/奇幻小小英雄/开发流程",
     "Roblox/场景建造",
     "Roblox/奇幻小小英雄/知识学习",
