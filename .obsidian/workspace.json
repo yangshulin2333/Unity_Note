@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roblox/奇幻小小英雄/开发流程/第3阶段-Data/P4：商店系统真实接入.md",
+                "file": "Roblox/奇幻小小英雄/开发流程/第3阶段-Data/P4重新设计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "P4：商店系统真实接入"
+              "title": "P4重新设计"
             }
           }
         ],
@@ -223,13 +223,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roblox/奇幻小小英雄/开发流程/第3阶段-Data/P4：商店系统真实接入.md",
+                "file": "Roblox/奇幻小小英雄/开发流程/第3阶段-Data/P4重新设计.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "P4：商店系统真实接入 的大纲"
+              "title": "P4重新设计 的大纲"
             }
           }
         ],
@@ -255,10 +255,11 @@
   },
   "active": "e3accdc91a277ff1",
   "lastOpenFiles": [
+    "Roblox/奇幻小小英雄/开发流程/第3阶段-Data/P4：商店系统真实接入.md",
+    "Roblox/奇幻小小英雄/开发流程/第3阶段-Data/P4重新设计.md",
     "Roblox/奇幻小小英雄/开发文档1.md",
     "Roblox/奇幻小小英雄/开发文档2.md",
     "Roblox/奇幻小小英雄/可借鉴游戏.md",
-    "Roblox/奇幻小小英雄/开发流程/第3阶段-Data/P4：商店系统真实接入.md",
     "流程图Prompt.md",
     "基础常识.md",
     "Roblox/横扫千军/V0.0版本/结构目录.md",
@@ -284,7 +285,6 @@
     "Roblox/奇幻小小英雄/开发流程/第1阶段_teleport",
     "Roblox/奇幻小小英雄/开发流程/第1阶段_teleport/第 3.0 - A 阶段.md",
     "Roblox/奇幻小小英雄/开发流程/第1阶段_teleport/第 2.5 - D 阶段 传送系统.md",
-    "Roblox/全栈开发/教程/Youtube/Kek/初级UI.md",
     "Roblox/全栈开发/教程/Youtube/Kek/Figma基础",
     "Roblox/全栈开发/教程/Youtube/Kek",
     "Roblox/奇幻小小英雄/开发流程",
