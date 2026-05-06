@@ -86,9 +86,21 @@
               "icon": "lucide-file",
               "title": "P4最终版"
             }
+          },
+          {
+            "id": "72f9c5e8822b3254",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Roblox/奇幻小小英雄/开发流程/第3阶段-Data/代码逻辑梳理.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "代码逻辑梳理.excalidraw"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -223,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roblox/奇幻小小英雄/开发流程/第3阶段-Data/P4最终版.md",
+                "file": "Roblox/奇幻小小英雄/开发流程/第3阶段-Data/代码逻辑梳理.excalidraw.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "P4最终版 的大纲"
+              "title": "代码逻辑梳理.excalidraw 的大纲"
             }
           }
         ],
@@ -253,12 +265,13 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "e3accdc91a277ff1",
+  "active": "72f9c5e8822b3254",
   "lastOpenFiles": [
+    "Roblox/奇幻小小英雄/开发流程/第3阶段-Data/P4最终版.md",
+    "Roblox/奇幻小小英雄/开发流程/第3阶段-Data/代码逻辑梳理.excalidraw.md",
     "Roblox/奇幻小小英雄/开发流程/第3阶段-Data/P4：重新设计-D.md",
     "Roblox/奇幻小小英雄/开发流程/第3阶段-Data/P1：HUD 接真实数据-D.md",
     "Roblox/奇幻小小英雄/开发流程/第3阶段-Data/P4：商店系统真实接入-D.md",
-    "Roblox/奇幻小小英雄/开发流程/第3阶段-Data/P4最终版.md",
     "Roblox/奇幻小小英雄/开发文档1.md",
     "Roblox/奇幻小小英雄/开发文档2.md",
     "Roblox/奇幻小小英雄/可借鉴游戏.md",
@@ -284,7 +297,6 @@
     "Roblox/奇幻小小英雄/开发流程/第1阶段_teleport/第1阶段：项目目录结构和模块分层.md",
     "Roblox/奇幻小小英雄/开发流程/第1阶段_teleport/第 1.1 - A 阶段.md",
     "Roblox/奇幻小小英雄/开发流程/第1阶段_teleport",
-    "Roblox/奇幻小小英雄/开发流程/第1阶段_teleport/第 3.0 - A 阶段.md",
     "Roblox/全栈开发/教程/Youtube/Kek/Figma基础",
     "Roblox/全栈开发/教程/Youtube/Kek",
     "Roblox/奇幻小小英雄/开发流程",
