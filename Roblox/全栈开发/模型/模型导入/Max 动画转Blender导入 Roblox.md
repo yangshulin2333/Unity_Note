@@ -287,10 +287,11 @@ Demo05
 ## 2. 打开动画编辑器
 
 ```text
-Avatar
-→ Animation Editor
+Avatar 即 虚拟形象
+→ Animation Editor 即 剪辑编辑器
 ```
 
+![](assets/Max%20动画转Blender导入%20Roblox/file-20260507101522614.jpg)
 ---
 
 ## 3. 导入动画
