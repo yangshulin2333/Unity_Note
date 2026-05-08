@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roblox/全栈开发/教程/官方教程/Roblox角色.md",
+                "file": "Roblox/全栈开发/技术美术/动画逻辑.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roblox角色"
+              "title": "动画逻辑"
             }
           },
           {
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roblox/全栈开发/教程/官方教程/Roblox角色.md",
+                "file": "Roblox/全栈开发/技术美术/动画逻辑.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Roblox角色 的大纲"
+              "title": "动画逻辑 的大纲"
             }
           }
         ],
@@ -257,11 +257,13 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "d0d07b32decba7d2",
+  "active": "fb856c36f3d4f7d5",
   "lastOpenFiles": [
+    "Roblox/全栈开发/教程/官方教程/Roblox角色.md",
+    "Roblox/全栈开发/技术美术/动画逻辑.md",
+    "Roblox/全栈开发/技术美术",
     "Roblox/全栈开发/教程/官方教程",
     "Roblox/全栈开发/模型/R15/Blender操作手册.md",
-    "Roblox/全栈开发/教程/官方教程/Roblox角色.md",
     "Roblox/全栈开发/模型/3D模型AI",
     "Roblox/全栈开发/模型/R15/Blender基础入门.md",
     "Roblox/全栈开发/模型/R15/Blender分离操作.md",
@@ -291,8 +293,6 @@
     "Roblox/Farm/assets/reference",
     "Roblox/Farm/assets/Grow a Garden",
     "Roblox/Farm/assets/Grow a Garden/file-20260506131244836.jpg",
-    "Roblox/Farm/assets/未命名",
-    "Roblox/Farm/assets",
     "Roblox/奇幻小小英雄/开发流程/第3阶段-商店/P4最终版.md",
     "Roblox/全栈开发/知识点.md",
     "Roblox/奇幻小小英雄/开发流程/第3阶段-商店/P4：重新设计-D.md",
