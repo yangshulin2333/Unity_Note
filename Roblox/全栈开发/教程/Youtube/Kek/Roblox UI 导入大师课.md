@@ -65,7 +65,7 @@
 - `Visible`：显示开关。
 - `ClipsDescendants`：隐藏超出父容器的内容。
 
-**7. TextLabel**
+#### **7. TextLabel**
 - 基础属性继承 Frame 的思路。
 - `FontFace`：选择字体，可用方向键快速预览。
 - `Weight` / `Style`：字重、粗体、斜体。
@@ -78,7 +78,7 @@
 - `TextXAlignment` / `TextYAlignment`：水平/垂直对齐。
 - `TextStroke` 或给 TextLabel 加 `UIStroke`：做描边效果。
 
-**8. ImageLabel**
+#### **8. ImageLabel**
 - 用于显示图片，关键是 `Image` 和 `ScaleType`。
 - `Image`：填 asset ID。
 - `ImageColor3`：给图片染色；白/灰度图染色效果最好。
@@ -91,7 +91,7 @@
   - `Stretch`：强行拉伸，容易变形。
   - `Tile`：平铺图片，适合重复纹理/加载背景。
 
-**9. TextBox**
+#### **9. TextBox**
 - 可输入文本，本质接近 TextLabel + 输入能力。
 - `ClearTextOnFocus`：点击后是否清空原文本。
 - `MultiLine`：允许回车多行。
@@ -99,26 +99,26 @@
 - `PlaceholderText`：未输入时显示的提示，如 `Search`。
 - `PlaceholderColor3`：占位文字颜色。
 
-**10. TextButton / ImageButton**
+#### **10. TextButton / ImageButton**
 - `TextButton`：可点击文字按钮。
 - `ImageButton`：可点击图片按钮。
 - `AutoButtonColor`：Roblox 默认 hover/click 变暗效果；自定义 UI 通常关掉。
 - `HoverHapticEffect` / `PressHapticEffect`：内置悬停/按压反馈。
 - 如果视觉是 `ImageLabel` 但需要可点击，可在里面放透明 `ImageButton` 当 hitbox。
 
-**11. CanvasGroup**
+#### **11. CanvasGroup**
 - 用来把一组 UI 当成整体处理。
 - 可统一控制子元素透明度/颜色。
 - 适合整组淡入淡出，但视频提醒：滚动列表边缘渐隐不建议滥用 CanvasGroup，用遮罩 Frame + UIGradient 更直接。
 
-**12. ViewportFrame**
+#### **12. ViewportFrame**
 - 在 UI 中显示 3D 模型，比如单位/角色预览。
 - 通常放在卡片或详情面板中，替代静态 PNG。
 - 需要配合相机和模型设置。
 - 导入完整 UI 时，角色展示位建议用 `ViewportFrame`，不要导出成死图。
 - 背景可设较深颜色，避免模型边缘出现白边。
 
-**13. ScrollingFrame**
+#### **13. ScrollingFrame**
 - 用于可滚动列表，如背包、单位格子。
 - 常配合 `UIGridLayout` 或 `UIListLayout`。
 - `CanvasSize`：滚动内容区域大小。
@@ -126,35 +126,35 @@
 - 滚动条颜色可用 `ScrollBarImageColor3`，厚度用 `ScrollBarThickness`。
 - 视频指出：滚动条厚度在不同设备上的缩放不理想，最好用脚本处理，或自制滚动条。
 
-**14. UICorner**
+#### **14. UICorner**
 - 给 Frame/Image/Button 圆角。
 - 圆形：正方形对象 + `UICorner.CornerRadius = 1`。
 - 导入后圆角也要转成 Scale，避免不同分辨率下圆角不一致。
 
-**15. UIStroke**
+#### **15. UIStroke**
 - 用于描边，替代默认 Border。
 - 可设置 `Color`、`Thickness`、`Transparency`。
 - `Thickness` 默认是像素值，导入后应转成 Scale。
 - 文字描边也可通过给 TextLabel 加 `UIStroke` 实现。
 
-**16. UIPadding**
+#### **16. UIPadding**
 - 给容器内部留边距。
 - 常用于列表、按钮文字、搜索框。
 - Padding 也应转成 Scale。
 - 视频后面提到某些 padding/插件处理可能未来变化，实际项目中以当前 Studio 表现为准。
 
-**17. UIScale**
+#### **17. UIScale**
 - 整体缩放某个 UI 分支。
 - 可用于适配、动画、整体放大缩小。
 - 但不要用它替代正确的 Scale 尺寸体系。
 
-**18. UIAspectRatioConstraint**
+#### **18. UIAspectRatioConstraint**
 - 用于锁定宽高比。
 - 正确做法：给“需要保持比例的主容器/卡片/圆形容器”加。
 - 错误做法：给每个子元素都加，或给全屏 HUD 主背景乱加。
 - 全屏 UI 如果锁死 16:9，在手机、VGA、方屏上会出现空边或布局错误。
 
-**19. UIGradient**
+#### **19. UIGradient**
 - 可做颜色渐变，也可做透明度遮罩。
 - `Color`：渐变颜色。
 - `Transparency`：渐隐/隐藏局部。
@@ -162,7 +162,7 @@
 - `Offset`：移动渐变，可用于进度条动画。
 - 注意：UIGradient 的透明度会影响其父对象整体可见性。
 
-**20. UIListLayout**
+#### **20. UIListLayout**
 - 把子元素按一条线排列。
 - 加入 layout 后，子元素的 Position 通常不再手动控制。
 - 需要局部移动/动画时，可用“占位 Frame + 内部内容偏移”的结构。
@@ -173,7 +173,7 @@
   - `HorizontalAlignment` / `VerticalAlignment`：对齐方式。
   - `Wraps`：是否换行。
 
-**21. UIGridLayout**
+#### **21. UIGridLayout**
 - 网格布局，适合背包、卡片列表。
 - 比 ListLayout 难动画，但可以统一控制每格大小。
 - 关键属性：
@@ -185,26 +185,26 @@
   - `SortOrder`：同 ListLayout。
 - GridLayout 默认会换行，不能像 ListLayout 那样完全关闭 wrap。
 
-**22. UIPageLayout**
+#### **22. UIPageLayout**
 - 把每个子 Frame 当作一页，可滚轮/滑动切页。
 - `Animated`：是否播放切页动画。
 - `Circular`：最后一页后是否回到第一页。
 - Tween 相关属性控制动画行为。
 - 视频观点：现在实际项目较少用，更多人用 List/Grid + 自己写动画。
 
-**23. UITableLayout**
+#### **23. UITableLayout**
 - 类似表格/Excel 行列布局。
 - 视频明确不推荐，认为 2024-2026 基本没人用。
 - 实务上优先学 `UIListLayout`、`UIGridLayout`、`UIPageLayout`。
 
-**24. 灰度化处理**
+#### **24. 灰度化处理**
 - 导入需要变色的图片时，尽量导成白色/灰度。
 - 彩色图片用 `ImageColor3` 改色会偏色；白色图片能准确染成任意颜色。
 - 适合光效、描边、卡片 glow、hover 高亮。
 - 可叠加 `UIGradient` 做双色/多色效果。
 - 在第三方软件中，把彩色 glow/icon 处理成白色再导出。
 
-**25. Hitbox**
+#### **25. Hitbox**
 - 如果视觉按钮是 `ImageLabel`，但它本身不可点击，可在里面加透明 `ImageButton`。
 - 操作：
   - 在视觉对象下新增 `ImageButton`。
@@ -214,14 +214,14 @@
   - 命名为 `Hitbox`。
 - 脚本绑定这个透明按钮，视觉仍由外层图片负责。
 
-**26. 正确应用约束**
+#### **26. 正确应用约束**
 - 不要给所有节点加 `UIAspectRatioConstraint`。
 - 先把对象尺寸/位置全部 Scale 化。
 - 找到真正需要保持整体比例的父容器，只给它加约束。
 - 全屏 holder 不要锁比例；内部主 UI 容器可以锁。
 - 完成后必须切换不同设备预览检查。
 
-**27. ScrollingFrame 淡入淡出**
+#### **27. ScrollingFrame 淡入淡出**
 - 不推荐用 CanvasGroup 做滚动边缘淡出。
 - 推荐做法：
   - 在 ScrollingFrame 上方放一个遮罩 Frame。
