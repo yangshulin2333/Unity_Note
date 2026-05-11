@@ -254,7 +254,7 @@
 - 作用：中间区域被拉伸，左右/上下边缘保持质量。
 - 适合加载条、圆角长条、可变宽面板、按钮背景。
 
-**30. 圆形/环形进度条**
+#### **30. 圆形/环形进度条**
 - 结构：
   - 外层正方形 `Container`，居中，Scale 化，加 `UIAspectRatioConstraint`。
   - `Bottom`：圆形 Frame，`UICorner = 1`，加 `UIStroke`，作为底环。
@@ -270,7 +270,7 @@
   - 文本更高。
 - 实际项目中旋转值应由脚本根据百分比计算，避免手调出现断裂。
 
-**31. Kekui / KUI 插件**
+#### **31. Kekui / KUI 插件**
 - 插件分区：
   - `Transform`
   - `Quick Actions`
