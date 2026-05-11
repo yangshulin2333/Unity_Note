@@ -300,7 +300,7 @@
   - 父对象最好是白色，渐变颜色才准确。
   - 选择新渐变会替换旧渐变，不会堆一堆 UIGradient。
 
-**32. 导出完整动漫 UI**
+#### **32. 导出完整动漫 UI**
 - 在设计软件里先整理分组。
 - 图标、光效、卡片底图、复杂背景导出为图片。
 - 文本不要导出，尽量在 Studio 用 TextLabel 重建。
@@ -308,7 +308,7 @@
 - 导出前按用途分离：背景、header、按钮、icon、glow、卡片、装饰条等。
 - 视频使用小号上传图片，原因是担心主号图片/素材被 Roblox 审核误标。
 
-**33. 导入完整动漫 UI 到 Studio**
+#### **33. 导入完整动漫 UI 到 Studio**
 - 新建 `ScreenGui`。
 - 建主容器，如 `MainInventory`，居中、合适大小、Scale 化。
 - 放一张半透明 overview/reference 图作为对齐参考：
@@ -353,3 +353,232 @@
 [原视频](https://www.youtube.com/watch?v=_6v86vc-9Xc&t=4151s)  
 [Roblox in-experience UI containers](https://create.roblox.com/docs/ui/in-experience-containers)  
 [Roblox on-screen UI containers](https://create.roblox.com/docs/ui/on-screen-containers)
+
+### 实用技巧
+下面只总结 **1:52:00 之后完整导入 UI 到 Roblox Studio 的实操技巧**，不重复基础概念。
+
+#### **导入前**
+1. 用小号上传 UI 图片素材，避免主号素材被 Roblox 审核误伤。
+2. 用 `Asset Manager > Bulk Import` 批量导入所有导出的图片。
+3. 复杂图形、光效、按钮底图、卡片背景导成图片；文字、输入框、统计数值尽量在 Studio 里重建，方便脚本和后期修改。
+4. 需要变色的光效、glow、图标尽量导成白色/灰度，之后用 `ImageColor3` 上色。
+
+#### **搭主结构**
+1. 新建 `ScreenGui` 后：
+   - 开启 `IgnoreGuiInset`
+   - 关闭 `ResetOnSpawn`
+2. 在 `ScreenGui` 下建全屏 `HolderFrame`：
+   - 居中
+   - `Fit to Parent Size`
+   - 移除背景
+3. 导入整张 UI 截图作为 `Overview` 参考图：
+   - `ImageLabel`
+   - 居中、填满父级、移除背景
+   - 加 `UIAspectRatioConstraint`
+   - 用 `ImageTransparency = 0.5~0.6` 辅助对齐
+   - 可临时把 `ZIndex` 设很高方便看，也可设很低放在底下
+
+#### **主容器技巧**
+1. 先做一个 `ContainerFrame` 包住整套 UI，后续移动/缩放整套 UI 更方便。
+2. UI 分左右两块时，分别建：
+   - `MainInventory`
+   - `InventoryDetails`
+3. 所有主区域尽量：
+   - `AnchorPoint = 0.5, 0.5`
+   - 位置和尺寸转为 `Scale`
+4. 主 UI 容器加 `UIAspectRatioConstraint`，不要给全屏 holder 加比例约束。
+
+#### **对齐技巧**
+1. 不要完全靠鼠标拖，容易因为分辨率和吸附导致误差。
+2. 精细位置用属性面板里的 `Position` / `Size` 数值调。
+3. 对齐时反复切换：
+   - `Overview` 显示
+   - `Overview` 半透明
+   - `Overview` 隐藏
+4. 对齐参考图时，先大块定位，再处理小图标、文字、按钮。
+
+#### **图片控件技巧**
+1. 导入的 UI 图片默认优先设：
+   - `ScaleType = Fit`
+   - `BackgroundTransparency = 1`
+2. 背景图片一般放低层：
+   - 背景 `ZIndex = -10`
+   - 普通内容 `0~2`
+   - 文字/图标更高
+3. 光效一般比主体大一点，放到主体后面：
+   - `Size` 可设 `1.1~1.3`
+   - `ZIndex = -1`
+   - 用 `ImageTransparency` 调强弱
+   - 用 `ImageColor3` 改颜色
+
+#### **按钮制作技巧**
+1. 不建议直接把视觉图片做成 `ImageLabel` 就结束；可点击对象必须是 `ImageButton`。
+2. 推荐结构：
+   - 外层 `ImageButton`：负责点击和动画
+   - 内层 `ImageLabel` 命名 `Texture`：负责显示按钮图案
+3. 外层按钮本身设透明：
+   - `BackgroundTransparency = 1`
+   - `ImageTransparency = 1`
+4. 好处：
+   - 点击区域可单独控制
+   - 图案大小可单独调
+   - 动画时缩放按钮更方便
+5. 如果按钮点击范围太大，就缩小外层 `ImageButton`，不要只缩小里面的贴图。
+
+#### **搜索框技巧**
+1. 搜索框底用 `Frame` 做，不必整张导图。
+2. 用：
+   - `UICorner` 做圆角
+   - `UIStroke` 做边线
+   - `TextBox` 做输入
+   - `ImageLabel` 做搜索 icon
+3. `TextBox`：
+   - 移除背景
+   - 开启 `TextScaled`
+   - `TextXAlignment = Left`
+   - `PlaceholderText = Search`
+   - 字体用整套 UI 一致的字体
+4. 做完后对搜索框整体执行 `Ultra Scale`，避免内部 icon/textbox 仍是 offset。
+
+#### **列表按钮技巧**
+1. 多个并排小按钮用 `UIListLayout`，不要手动一个个摆。
+2. 设置：
+   - `FillDirection = Horizontal`
+   - `HorizontalAlignment = Left` 或 `Center`
+   - `VerticalAlignment = Center`
+3. 每个按钮内部仍用：
+   - 外层 `ImageButton`
+   - 内层 `Texture`
+   - 可选 `Glow`
+4. 顺序用 `LayoutOrder` 控制，不靠拖动层级。
+
+#### **容量文字技巧**
+1. 类似 `49/100` 这种双色文字，用 `RichText`。
+2. 示例思路：
+   - TextLabel 开启 `RichText`
+   - 数字或后半段用 `<font color="#xxxxxx">...</font>`
+3. 取色时可先显示 `Overview`，用 Studio 的 `Pick Screen Color` 取原图颜色。
+
+#### **单位网格技巧**
+1. 背包/单位列表用：
+   - `ScrollingFrame`
+   - `UIGridLayout`
+2. `ScrollingFrame`：
+   - 移除背景
+   - 调整 `ScrollBarImageColor3`
+   - 调整 `ScrollBarThickness`
+   - `AutomaticCanvasSize = Y`
+3. `UIGridLayout`：
+   - 用 `CellSize` 控制格子大小
+   - 用 `CellPadding` 控制间距
+   - 一行几个格子一定要对照原图确认，视频里一开始看成 5 个，后来修正为 6 个
+4. 先只做好一个 `Unit` 卡片，再复制，不要一开始装饰全部格子。
+
+#### **卡片制作技巧**
+1. 单位卡片结构建议：
+   - `Unit`
+   - `CardBG`
+   - `ViewportFrame`
+   - `CardGlow`
+   - trait/icon/lock/favorite 等小元素
+2. 角色展示用 `ViewportFrame`，不要用静态 PNG，因为游戏里通常要显示真实模型。
+3. `ViewportFrame` 可略大于卡片显示区域，例如 `0.78~0.8`，避免角色显得太小。
+4. `CardGlow` 超出格子时会被 `ScrollingFrame` 裁掉。
+5. 正确修复方式：
+   - 不要乱加 padding
+   - 把卡片内容整体缩小，让 glow 也包含在 `Unit` 格子范围内
+   - 必要时给卡片内部容器开 `ClipsDescendants`
+6. 如果 glow 太强，用 `ImageTransparency` 调，不要只缩尺寸。
+
+#### **Grid 缩放坑**
+1. `UIGridLayout.CellSize` 一开始可能是 Offset。
+2. 后期发现跨设备不对时，把 `CellSize` 转成 Scale。
+3. 转 Scale 后视觉大小可能变化，需要重新调 `CellSize` 数值。
+4. 插件会给 Grid 加一个 `UIAspectRatioConstraint` 来保持格子正方形，所以不用给每个按钮单独加比例约束。
+
+#### **底部三个主按钮**
+1. 可复用前面做好的按钮组，再修改位置、大小和图片。
+2. 三个按钮用 `UIListLayout` 横排。
+3. 颜色顺序靠 `LayoutOrder` 控制，例如：
+   - Green = 0
+   - Pink = 1
+   - Yellow = 2
+4. 按钮文字用 TextLabel 重建：
+   - `TextScaled`
+   - 白色文字
+   - 加 `UIStroke`
+   - 字体和 UI 保持一致
+5. 做完每个按钮后执行 `Ultra Scale`。
+
+#### **右侧详情面板技巧**
+1. 右侧也分上下容器：
+   - 顶部信息容器
+   - 底部操作/展示容器
+2. 可以复制已有容器结构，再替换 texture 图片。
+3. 顶部和底部容器都应单独检查比例，必要时加 `UIAspectRatioConstraint`。
+4. 小 trait 图标用 `UIListLayout` 横排。
+5. 如果图标顺序反了，用 `LayoutOrder` 调，不要手动乱拖。
+6. trait 图标不居中时，进入每个图标内部，把子 ImageLabel 居中、fit parent。
+
+#### **详情页 ViewportFrame 技巧**
+1. 如果 ViewportFrame 放在详情容器内部会被阴影或层级盖住，可以调整父级位置。
+2. 视频中把 ViewportFrame 放到 `BottomRight` 里，而不是原本的详情子容器里。
+3. 用 `ZIndex` 插到正确层级：
+   - Texture 之上
+   - Shadow 之上或之下按效果调整
+   - 例如 texture `0`，shadow `-10`，viewport `-5`
+4. ViewportFrame 背景可设深灰，避免模型边缘白边。
+
+#### **统计条技巧**
+1. 右侧伤害、SPA、Range 等统计项用 `UIListLayout` 垂直排列。
+2. 先做一个统计条，再复制三份。
+3. 单个统计条结构：
+   - 外层 Frame
+   - 背景 Texture
+   - 深色遮罩 Dark
+   - `UIStroke`
+   - `UIGradient`
+   - 数值 TextLabel
+   - Tier TextLabel
+   - Icon ImageLabel
+   - Trail 高光
+4. 渐变角度要反复对照原图，视频里先试 `135`，后改为 `45`。
+5. 左侧白色 trail 可用一个 Frame + `UIGradient`：
+   - `Rotation = 180`
+   - 一侧透明，一侧微亮
+   - `BackgroundTransparency` 调到 `0.6~0.7`
+6. 复制统计条后：
+   - 改名字
+   - 改 icon
+   - 改 gradient 颜色
+   - 改 `LayoutOrder`
+
+#### **常用修复技巧**
+1. 看不见对象：先查 `ZIndex`，再查父级是否 `Visible`，再查是否被 `ClipsDescendants` 裁掉。
+2. 点击范围不对：检查外层 `ImageButton` 的尺寸，不是里面 texture 的尺寸。
+3. 图片变形：检查 `ScaleType` 是否是 `Fit`。
+4. 手机/VGA 错位：检查是否还有 Offset，执行 `Ultra Scale`。
+5. 圆角/描边比例异常：检查 `UICorner`、`UIStroke` 是否 Scale 化。
+6. 列表间距不对：检查 `UIGridLayout.CellPadding` 和 `CellSize`。
+7. 光效被裁：让 glow 包含在格子本身范围内，而不是超出 ScrollingFrame 可裁切区域。
+8. 文本不一致：检查字体、字重、TextScaled、UIStroke、TextTransparency。
+9. 参考图挡住操作：临时改 Overview 的 `ZIndex` 或透明度。
+
+#### **最终检查**
+1. 切换到 VGA 预览。
+2. 再切到手机预览。
+3. 检查：
+   - Close button 是否过大
+   - 统计条是否缩放正常
+   - ScrollingFrame 是否正常
+   - 卡片是否仍是正方形
+   - 文本是否溢出
+   - 光效是否被裁
+4. 视频最后发现：
+   - Close button 忘记 scale
+   - Statistics 忘记 scale
+   修完后 UI 在不同设备上正常。
+5. 滚动条厚度在不同设备可能不一致，这是 Studio 属性限制；更稳的做法是用脚本缩放滚动条厚度，或自定义滚动条。
+
+核心一句话：  
+这段实操的关键不是“把图片摆上去”，而是用参考图逐层重建 UI，并且不断保证 **Scale 化、中心锚点、正确 ZIndex、Fit 图片、布局组件管理、跨设备检查**。
