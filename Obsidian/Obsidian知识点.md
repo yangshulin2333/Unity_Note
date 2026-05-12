@@ -1,3 +1,5 @@
+[作者使用心得](https://www.youtube.com/@linkingyourthinking)
+
 我根据这个视频的英文自动字幕整理了。视频核心是：**用最短时间掌握 Obsidian 最重要的 80% 功能，并避免新手常见误区**。链接：[YouTube 视频](https://www.youtube.com/watch?v=z4AbijUCoKU)
 
 **1. 为什么选择 Obsidian**
@@ -156,6 +158,7 @@ AnuPpuccin
 - 先用大分类
 - 结构要“长出来”，不要提前设计太细
 - 用链接、快速切换、图谱和 MOC 来找笔记
+
 
 #### **14. 新手误区四：不要拖延学习快捷键**
 
