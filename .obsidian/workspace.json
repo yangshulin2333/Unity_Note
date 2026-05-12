@@ -226,7 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 799.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,6 +244,7 @@
   },
   "active": "648d9d490c8b11e0",
   "lastOpenFiles": [
+    "Roblox/奇幻小小英雄/开发流程/第2阶段-UI/第 3.1 - A 阶段：后续大纲.md",
     "Roblox/奇幻小小英雄/开发流程/第4阶段-仓库/P5：背包.md",
     "Roblox/奇幻小小英雄/开发流程/第4阶段-仓库/P5：背包系统真实接入.md",
     "Roblox/全栈开发/教程/Youtube/Kek/Figma基础/视频教程.md",
@@ -281,7 +282,6 @@
     "Roblox/全栈开发/模型/R15/Roblox R15 绑定流程（小白稳定版）.md",
     "Roblox/全栈开发/模型/R15/R15视频教程.md",
     "Roblox/全栈开发/模型/R15/Prompt 笔记提取.md",
-    "Roblox/全栈开发/模型/模型导入/Blender → Roblox 多贴图角色导入笔记.md",
     "Roblox/全栈开发/模型/R15",
     "Roblox/全栈开发/模型/模型导入/assets/Max 动画转Blender导入 Roblox/file-20260507103026264.jpg",
     "Roblox/全栈开发/模型/模型导入/assets/Max 动画转Blender导入 Roblox/file-20260507101522614.jpg",
