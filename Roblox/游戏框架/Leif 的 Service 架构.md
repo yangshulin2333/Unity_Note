@@ -202,3 +202,7 @@
     
 
 **下一步，我们可以尝试写一个通用的“Service 加载器” (`init.server.luau`)，这是把这堆文件夹变活的第一步。你想现在就看看这个加载器的代码怎么写吗？**
+
+High-precision 2D anime character reference, back view, full-body orthographic A-pose, inspired by Tifa Lockhart from Final Fantasy VII. Adult athletic woman, symmetrical body, arms slightly lowered in A-pose and clearly separated from torso, legs straight shoulder-width apart.
+Hair: long black hair gathered into one clean low ponytail down the center of the back, smooth simple silhouette, symmetrical, no messy floating strands, no duplicated hair locks, no split tails, no hair covering the arms, shoulders and suspenders must remain visible.
+Outfit: white cropped tank top back, black mini skirt with back suspenders visible, black gloves, black arm guards, red boots, red ribbon accents. Pure white background, no shadow, no perspective distortion, no props, no text, no watermark, clean contour lines, modeling reference sheet quality.
