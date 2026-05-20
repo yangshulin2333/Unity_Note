@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roblox/全栈开发/模型/R15/Blender操作手册.md",
+                "file": "Roblox/全栈开发/教程/Youtube/Kek/初级UI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blender操作手册"
+              "title": "初级UI"
             }
           },
           {
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roblox/奇幻小小英雄/Roblox项目交接知识文档_AI可读版.md",
+                "file": "Roblox/全栈开发/教程/Youtube/Kek/初级UI.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Roblox项目交接知识文档_AI可读版 的大纲"
+              "title": "初级UI 的大纲"
             }
           }
         ],
@@ -259,8 +259,9 @@
   },
   "active": "d0d07b32decba7d2",
   "lastOpenFiles": [
-    "Roblox/全栈开发/模型/R15/Blender基础入门.md",
+    "Roblox/奇幻小小英雄/Roblox项目交接知识文档_AI可读版.md",
     "Roblox/全栈开发/模型/R15/Blender操作手册.md",
+    "Roblox/全栈开发/模型/R15/Blender基础入门.md",
     "Roblox/全栈开发/模型/R15/Blender分离操作.md",
     "Roblox/奇幻小小英雄/资源区场景/资源区场景搭建执行版.md",
     "Roblox/全栈开发/模型/模型导入/导入失败.md",
@@ -284,7 +285,6 @@
     "Roblox/全栈开发/教程/Youtube/TheDevKing/常用内置函数.md",
     "Roblox/奇幻小小英雄/资源区场景/ResourceZone_Concept_01.png",
     "Obsidian/Obsidian.md",
-    "Roblox/奇幻小小英雄/Roblox项目交接知识文档_AI可读版.md",
     "Roblox/奇幻小小英雄/开发流程/第2阶段-UI/第 3.1 - B 阶段：UI搭建.md",
     "Roblox/奇幻小小英雄/资源区场景",
     "Obsidian",
