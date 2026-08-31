@@ -112,7 +112,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -227,13 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rule_Shift_Arena_GDD_v0.2.md",
+                "file": "Roblox/奇幻小小英雄/Roblox项目交接知识文档_AI可读版.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Rule_Shift_Arena_GDD_v0.2 的大纲"
+              "title": "大纲"
             }
           }
         ],
